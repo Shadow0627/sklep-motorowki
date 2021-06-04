@@ -1,1 +1,85 @@
-/* No CSS *//*# sourceMappingURL=styl.css.map */
+body {
+  margin: 0px 0px 0px 0px !important;
+  padding: 0px 0px 0px 0px !important;
+  color: white;
+  font-family: 'Roboto';
+  overflow-x: hidden;
+}
+
+.main-footer {
+  margin-top: 10vh;
+  width: 100%;
+  border-radius: 20px 20px 0px 0px;
+  border: 2px solid black;
+  height: 5vh;
+  background-color: #1fb8d3;
+  -webkit-box-shadow: 0px -5px 20px black;
+          box-shadow: 0px -5px 20px black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+ul {
+  padding: 0px 0px 0px 0px !important;
+  margin: 0px 0px 0px 0px !important;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  list-style: none;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  border-radius: 0px 0px 20px 20px;
+  border: 2px solid black;
+  height: 5vh;
+  background-color: #1fb8d3;
+  -webkit-box-shadow: 0px 5px 20px black;
+          box-shadow: 0px 5px 20px black;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: large;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin-top: 10vh;
+  font-size: xx-large;
+  color: black;
+}
+
+.head_img {
+  margin-top: 10vh;
+  width: 25%;
+  margin-left: 37.5%;
+}
+
+header {
+  padding: 0px 0px 0px 0px !important;
+  margin: 0px 0px 0px 0px !important;
+}
+
+.article-content {
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 0px 0px 20px 20px;
+  border: 2px solid black;
+  margin-top: 10vh;
+  -webkit-box-shadow: 10px 25px 20px black;
+          box-shadow: 10px 25px 20px black;
+  background-color: #1fb8d3;
+  height: 100vh;
+}
+/*# sourceMappingURL=styl.css.map */

@@ -1,7 +1,5 @@
 <?php
 include 'header.php';
-?>
-dupa dupa dupa
-<?php
+include 'content.php';
 include 'footer.php';
 ?>
